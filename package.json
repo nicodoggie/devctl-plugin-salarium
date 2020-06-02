@@ -1,0 +1,15 @@
+{
+  "name": "devctl-plugin-salarium",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nico Suarez <nicodoggie@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@folder/xdg": "^2.1.1",
+    "chalk": "^4.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "esm": "^3.2.25",
+    "js-yaml": "^3.14.0"
+  }
+}
